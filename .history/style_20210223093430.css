@@ -1,0 +1,19 @@
+*{
+    list-style:none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Roboto, sans-serif;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav_link{
+    width: 50%;
+}
